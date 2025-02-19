@@ -1,9 +1,31 @@
-# TransitBuddy
+# Welcome to Transit Buddy 👋
 
-Welcome to the TransitBuddy repo! TransitBuddy is a one-step solution to planning your daily errands and commutes. 
+TransitBuddy is a one-step solution to planning your daily errands and commutes.
 
 ## Key features
+
 1. Ability to add stops while using public transit
 2. Schedule errands between daily commutes
-3. Integrate seamlessly with Google Calendar
 
+## Get started
+
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. Start the app
+
+   ```bash
+    npx expo start
+   ```
+
+In the output, you'll find options to open the app in a
+
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
